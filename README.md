@@ -1,4 +1,5 @@
 # AWS Certified Machine Learning Engineer - Associate Certification Study
+## Christopher Jackson (@gogetjax)
 
 I nice set of notes I've used to help me study for the AWS Machine Learning Engineer -- Associate certification.
 
@@ -21,3 +22,6 @@ The following algoirthms are available to study:
 * Principal Component Analysis (PCA)
 * Factorization Machines
 * IP Insights
+
+
+Follow me on X: [@gogetjax](https://x.com/gogetjax)
